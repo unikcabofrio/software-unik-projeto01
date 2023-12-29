@@ -122,6 +122,8 @@ celerybeat.pid
 #paths
 chrome/
 contatoVivo.txt
+contatoTim.txt
+contatoClaro.txt
 
 # Environments
 .env
